@@ -11,7 +11,3 @@ Para inicir Git clone e project/ build
 
 ## Prebuilt Components/Templates 🔥  
 No Components
-    
-## Validation  ✨  
- <img src="/donevalidate.png" width="200"/>
- <img src="/wrong.png" width="200" />
